@@ -1,0 +1,40 @@
+{
+  "name": "myProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prova.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-p": "^1.1.0",
+    "buffer-split": "^1.0.0",
+    "bunyan": "^1.8.12",
+    "countrynames": "^0.1.1",
+    "data.task": "^3.1.1",
+    "dtrace-provider": "^0.8.5",
+    "event-stream": "^3.3.4",
+    "fast-deep-equal": "^1.0.0",
+    "get-ssl-certificate": "^2.0.1",
+    "internet-available": "^1.0.0",
+    "line-by-line": "^0.1.5",
+    "linkedlist": "^1.0.1",
+    "moment": "^2.19.1",
+    "mongoose": "^4.12.4",
+    "netcat": "^1.3.2",
+    "node-whois": "^2.1.3",
+    "object-sizeof": "^1.2.0",
+    "parse-whois": "^1.0.0",
+    "ping": "^0.2.2",
+    "request": "^2.83.0",
+    "sizeof": "^1.0.0",
+    "tape": "^4.8.0",
+    "tls": "0.0.1",
+    "whois": "^2.5.0",
+    "why-is-node-running": "^1.2.3",
+    "xforce": "^0.2.0"
+  }
+}
