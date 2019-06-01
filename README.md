@@ -1,6 +1,6 @@
-Yoroi - Passive Gatherer Informations
+# Passive Gatherer Informations
 
-###Usage###
+## Usage
 
 1-The basic input
 
